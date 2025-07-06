@@ -1,4 +1,3 @@
-````markdown
 #  Vehicle Image Analysis App
 
 This app analyzes four images of a vehicle (front, rear, left, right) using Google's Gemini multimodal model. It evaluates:
